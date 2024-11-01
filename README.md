@@ -6,3 +6,6 @@ Have a class named TicTacToe with four main helper methods that realize the game
 3. update_display() --> it is called every time user plays thier turn and computer automatically play it's turn.
 4. game_over() --> this methods helps to check the conditions if the game is over or not.
    it determines whether the game is won by user or by computer or it was draw.
+
+![image](https://github.com/user-attachments/assets/e564dc6f-9412-4adb-88e0-f08d104c242c)
+
